@@ -1,5 +1,6 @@
 # Hacktoberfest
-> Files related to Hacktoberfest anual event
+
+Site do Hacktoberfest Blumenau
 
 # Cronograma
 
@@ -26,6 +27,12 @@
  - Fim
 
 # Edições anteriores
+
+### 2020
+
+Local: Online
+
+Responsável: Alexandre Vicenzi e Jonathan A. Schweder (Buteco Tecnológico)
 
 ### 2019
 
